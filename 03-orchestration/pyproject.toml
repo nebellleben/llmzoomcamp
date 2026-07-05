@@ -1,0 +1,9 @@
+[project]
+name = "03-orchestration"
+version = "0.1.0"
+description = "LLM Zoomcamp Module 3 homework - replicating Kestra AI agent flows in Python"
+requires-python = ">=3.14"
+dependencies = [
+    "google-genai>=2.9.0",
+    "python-dotenv>=1.2.2",
+]
